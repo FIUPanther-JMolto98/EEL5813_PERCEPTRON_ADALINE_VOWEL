@@ -1,1 +1,1 @@
-# EEL5813_PERCEPTRON_ADALINE_VOWEL
+# EEL5813_PRJ01_Perceptron_ADALINE_Handwritten_Vowel_Detector
